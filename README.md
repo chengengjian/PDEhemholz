@@ -24,5 +24,5 @@ Follow the instruction in the README.md of each algorithm folder.
 
 ## Example
 
-<img src="https://raw.githubusercontent.com/chengengjian/PDEhemholz/tree/master/img/0.png" width="500" height="500" alt="step1"/><br/>
-<img src="https://raw.githubusercontent.com/chengengjian/PDEhemholz/tree/master/img/1.png" width="500" height="500" alt="step1"/><br/>
+<img src="https://github.com/chengengjian/PDEhemholz/tree/master/img/0.png" width="500" height="500" alt="step1"/><br/>
+<img src="https://github.com/chengengjian/PDEhemholz/tree/master/img/1.png" width="500" height="500" alt="step1"/><br/>
