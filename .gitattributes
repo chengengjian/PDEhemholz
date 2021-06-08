@@ -3,3 +3,4 @@
 *.js linguist-language=C++
 *.xml linguist-language=C++
 *.css linguist-language=C++
+*.m linguist-language=C++
